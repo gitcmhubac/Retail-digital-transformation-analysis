@@ -10,6 +10,7 @@ To analyse the impact of digital transformation on business performance in UK an
 - Fixed effects model
 - Regression analysis
 - Heteroskedasticity test
+- Multicollinearity 
 
 ## Key Insights
 - Digital adoption impacts business performance positively and statistical significially
