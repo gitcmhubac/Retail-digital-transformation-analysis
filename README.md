@@ -5,7 +5,8 @@ To analyse the impact of digital transformation on business performance in UK an
 
 ## Tools
 - R
- 
+ - Power BI
+
 ## Methods
 - Exploratory Data Analysis (EDA) including distribution checks and correlation analysis
 - Fixed effects model
